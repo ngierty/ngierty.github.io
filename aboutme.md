@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Applied Statistics, University of Michigan
+use-site-title: true
 ---
+Hello! My name is Naomi and I recently graduated with a Master's degree in Applied Statistics at the University of Michigan. I received my Bachelors Degree in Mathematics and Economics from Emory University in 2015 before working for two years at The Brattle Group, an economic consulting company, as a Research Analyst.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am interested in all aspects of Applied Statistics, with my primary interests lying in consulting, astronomy/physics, and model development for business and government projects. I have experience programming in STATA, R, and Python. I welcome opportunities to grow as a statistician and problem solver!
