@@ -23,7 +23,7 @@ description: Professional Website
 
 # List of links in the navigation bar
 navbar-links:
-  Resume: "Resume"
+  Resume: "resume"
   Programming Projects:
     - GitHub Pages: "https://github.com/ngierty"
   Research Project:
