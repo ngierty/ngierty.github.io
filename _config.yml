@@ -25,7 +25,7 @@ description: Professional Website
 navbar-links:
   Resume: "resume"
   Programming Projects:
-    - GitHub Pages: "https://github.com/ngierty"
+    - Machine Learning in R: "https://github.com/ngierty/http://ngierty.github.io/machine_learning_r"
   Research Project:
     - GitHub Pages: "https://github.com/ngierty"
   Author's home: "http://ngierty.github.io"
