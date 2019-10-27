@@ -16,7 +16,7 @@ STATA (Advanced), SAS (Intermediate), R (Intermediate), Python (Intermediate)
 **WORK EXPERIENCE**
 
 Research Assistant for Professor Yang Chen, May 2018-Present  
-* Developed a random forest and neural network in python to predict ion events in Earth?s atmosphere using a dataset with over 300,000 observations
+* Developed a random forest and neural network in python to predict ion events in Earth's atmosphere using a dataset with over 300,000 observations
 
 Statistics GSI, September 2017-Present  
 * Taught Fall, Spring, and Summer semester labs for STATS 250  
