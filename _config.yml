@@ -26,6 +26,7 @@ navbar-links:
   Resume: "resume"
   Programming Projects:
     - Machine Learning in R: "https://github.com/ngierty/machine_learning_r/"
+    - Practice and Communication in Applied Statistics: "https://github.com/ngierty/ST504/"
   Research Project:
     - GitHub Pages: "https://github.com/ngierty"
   Author's home: "http://ngierty.github.io"
