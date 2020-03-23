@@ -5,7 +5,7 @@ subtitle: Naomi Giertych
 use-site-title: true
 ---
 
-Cell: (404) 747-2021	Email: ngierty@umich.edu
+Cell: (404) 747-2021	Email: ngierty@ncsu.edu
 
 ------
 **SKILLS**
@@ -35,6 +35,9 @@ Work-Study Scholarly Inquiry and Research at Emory (SIRE) Research Partners Prog
 * Developed a project seeking to identify genetic factors correlating with pancreatic, bladder, and/or breast cancer.
 
 **EDUCATION**
+
+North Carolina State University; PhD
+August 2019-May 2023 (Expected)
 
 University of Michigan; Applied Statistics Masters  
 August 2017- May 2019  
