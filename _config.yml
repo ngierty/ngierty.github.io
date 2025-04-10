@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: Naomi Giertych
+name: Naomi Singer
 description: Naomi's personal website.
 email: ngierty@ncsu.edu
 url: "http://ngierty.github.io" 
